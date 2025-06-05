@@ -1,4 +1,4 @@
-## 💻 EmCasta
+## 💻 Emma
 
 **Computer Science Engineering** student at UBA - FIUBA (*Facultad de Ingeniería de la Universidad de Buenos Aires*)
 
@@ -7,6 +7,12 @@
 * *Algorithm Theory*
 * *Programming Paradigms*
 * *Probability and Statistics*
+
+### 👾 Most Used Languages
+![Top Langs](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&langs_count=20&hide=Makefile)
+
+### 🔥 My Stats
+![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&show_icons=true&theme=tokyonight)
 
 <!--
 **EmCasta/EmCasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
