@@ -8,8 +8,8 @@
 * *Programming Paradigms*
 * *Probability and Statistics*
 
-### 👾 Most Used Languages
-![Top Langs](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&langs_count=20&hide=Makefile)
+### 👾 Languages
+![Top Langs](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&langs_count=20&layout=compact&hide=CSS,HTML,JavaScript)
 
 ### 🔥 My Stats
 ![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&show_icons=true&theme=tokyonight)
