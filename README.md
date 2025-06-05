@@ -9,7 +9,7 @@
 * *Probability and Statistics*
 
 ### 👾 Languages
-![Top Langs](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&langs_count=20&layout=compact&hide=CSS,HTML,JavaScript)
+![Top Langs](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&size_weight=0.5&count_weight=1&langs_count=20&layout=compact&hide=CSS,HTML,JavaScript,Dockerfile,linker%20script,Perl,GDB,Emacs%20Lisp,Makefile)
 
 ### 🔥 My Stats
 ![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&show_icons=true&theme=tokyonight)
