@@ -14,6 +14,8 @@
 ### 🔥 My Stats
 ![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&show_icons=true&theme=vue-dark)
 
+![Metrics](/github-metrics.svg)
+
 <!--
 **EmCasta/EmCasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
