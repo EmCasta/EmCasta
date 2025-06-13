@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 ![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EmCasta&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide=CSS,HTML,JavaScript,Dockerfile,linker%20script,Perl,GDB,Emacs%20Lisp,Makefile&size_weight=0.5&count_weight=1)
+![](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide=CSS,HTML,JavaScript,Dockerfile,linker%20script,Perl,GDB,Emacs%20Lisp,Makefile&size_weight=0.7&count_weight=0.4)
 
 ### 📚 Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
