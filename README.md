@@ -1,4 +1,4 @@
-# 💻 Emma Castarés
+# 💻 Hi, I'm Emma
 
 **Computer Science Engineering** student at UBA - FIUBA (*Facultad de Ingeniería de la Universidad de Buenos Aires*)
 
@@ -44,23 +44,26 @@ Here are some ideas to get you started:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 -->
+</br>
+
 ## 📊 GitHub Stats:
 ![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EmCasta&theme=vue-dark&hide_border=fals)<br/>
 ![](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide=CSS,HTML,JavaScript,Dockerfile,linker%20script,Perl,GDB,Emacs%20Lisp,Makefile)
+</br>
 
 ### 📚 Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</br>
 
-<!--
+## 🐍 Snake eating my commits
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmCasta/EmCasta/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmCasta/EmCasta/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EmCasta/EmCasta/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EmCasta/EmCasta/output/github-contribution-grid-snake.svg">
 </picture>    
--->
 
 ###
 <!--
