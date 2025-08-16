@@ -1,7 +1,6 @@
 # 💻 Hi, I'm Emma
 
 **Computer Science Engineering** student at UBA - FIUBA (*Facultad de Ingeniería de la Universidad de Buenos Aires*)
-
 <!--
 ## 🚀 I'm currently learning:
 * *Operating Systems*
@@ -49,7 +48,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 ![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EmCasta&theme=vue-dark&hide_border=fals)<br/>
-![](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=19&hide=CSS,HTML,JavaScript,Dockerfile,linker%20script,Perl,GDB,Emacs%20Lisp,Makefile)
+![](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=19&hide=CSS,HTML,JavaScript,Dockerfile,linker%20script,Perl,GDB,Emacs%20Lisp,Makefile)
 </br>
 
 ### 📚 Random Quote
