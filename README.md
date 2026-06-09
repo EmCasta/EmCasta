@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats:
 ![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EmCasta&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=19&hide=CSS,HTML,JavaScript,Dockerfile,Slash,Makefile,Prolog)
+![](https://github-readme-stats-emcastas-projects.vercel.app/api/top-langs/?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&hide=CSS,HTML,JavaScript,Dockerfile,Slash,Makefile,Prolog)
 </br>
 
 
