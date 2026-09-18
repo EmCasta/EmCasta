@@ -43,11 +43,21 @@
   ![Neo4J](https://img.shields.io/badge/Neo4j-%23008CC1.svg?style=for-the-badge&logo=neo4j&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## IDEs/Code Editors
+![RustRover](https://img.shields.io/badge/RustRover-BF6437?style=for-the-badge&logo=jetbrains&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-4E83D9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Goland](https://img.shields.io/badge/goland-%23000000.svg?style=for-the-badge&logo=goland&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-%23000.svg?style=for-the-badge&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+
 ## Other tools
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ----
