@@ -6,8 +6,6 @@
 
 **Interests**: Operating Systems, Computer Architecture, Robotics, Mathematics
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ## 📊 GitHub Stats:
 ![Emma's GitHub stats](https://github-readme-stats-emcastas-projects.vercel.app/api?username=EmCasta&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EmCasta&theme=vue-dark&hide_border=false)<br/>
